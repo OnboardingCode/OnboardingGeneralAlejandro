@@ -27,4 +27,6 @@ let students = 30;
 
 let result = 1 + 2 * 3 + 4 ** 2;
 
+document.getElementById("p1").textContent = `Result: ${result}`;
+
 console.log(result);
